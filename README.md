@@ -21,12 +21,6 @@ https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
 https://livecdn.live247stream.com/eternallife/tv/eternallife/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMBaZRjFQ6CiX8b-DJwcmjWAKrdkJrVZMJQ&usqp=CAU" group-title="Pakistan" ,FAZAL TV
 https://livecdn.live247stream.com/fazal/tv/fazal/stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/4cb88b_9ddd688bafc6455aabf3ba25a1f09804~mv2.jpg" group-title="Pakistan" ,JLN TV
-https://60vod-adaptive.akamaized.net/exp=1623832250~acl=%2F198497859%2F%2A~hmac=84e00d70f657578f73e4bb6b98d57d429b1e416191f091b7b0ddc501655b97b6/198497859/sep/video/1496763329/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.christianworldmedia.com/screencap1965" group-title="Pakistan" ,TOG TV
-https://f-tx-edge-87.christianworldmedia.com/thetogtv/mp4:thetogtv/chunklist_w211623505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://miracleshappen.tv/wp-content/uploads/2019/06/Miracle-Channel.jpg" group-title="Pakistan" ,MIRACLE TV
-https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w1117928759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71usSZ03TiL.png" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.joystar.tv/images/logo.png" group-title="Pakistan" ,JOYSTAR TV
