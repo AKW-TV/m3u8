@@ -16,7 +16,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/4b3660e4ac101a660d71cf1a154f3134ddc7a86b8c19766c5066673c219778c2.png" group-title="Pakistan" ,KING TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1432758606/Logo_Isaac_400x400.jpg" group-title="Pakistan" ,ISAAC TV
-https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DMk6ORsHEh1VKNTDUbMdMHN5zFKwDt-2NpoSmnki8hf4cvk_FLyQjy3RQLFC3gzAAX63jFfoGcaHtvmr-rnMQQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/chunk_1508333855603366721_49_a.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/b48ffe1d646e866c12bbb0987f02d40a66332813d2a5fa9e98f2474cf7fa1cc0.png" group-title="Pakistan" , Ethernal Life
 https://livecdn.live247stream.com/eternallife/tv/eternallife/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMBaZRjFQ6CiX8b-DJwcmjWAKrdkJrVZMJQ&usqp=CAU" group-title="Pakistan" ,FAZAL TV
