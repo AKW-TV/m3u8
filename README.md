@@ -88,7 +88,8 @@ http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="/pt-data/uploads/logo/in-channel-win-3861.jpg" group-title="HINDI"" ,WIN TV HD
+
+#EXTINF:-1 tvg-logo="/pt-data/uploads/logo/in-channel-win-3861.jpg" group-title="HINDI"" , WIN TV HD
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1547418290.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eqxcckunjkhu.png" group-title="HINDI"",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
