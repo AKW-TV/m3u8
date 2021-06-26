@@ -29,6 +29,8 @@ https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 https://cdn.live247stream.com/joystar/tv/joystar/stream2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfJt9aogMqufUMenBtKFt0sQf9J5k6_vZMA&usqp=CAU" group-title="Pakistan" ,YESHUAA TV
 http://cdn15.live247stream.com/yeshuaa/ls/yeshuaa/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="Pakistan" ,ANGEL TV
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/90053220/90053220_1_1372000/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www03.hoshana.com/assets/img/tv_icon/shinetv.jpg" group-title="Pakistan" ,StarShine TV(NEW)
 https://f-tx-edge-86.christianworldmedia.com/ShineStarTV/mp4:ShineStarTV/chunklist_w857080909.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1313930296975388674/M9LiN7b1_400x400.jpg" group-title="Pakistan" ,JC TV
