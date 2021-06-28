@@ -305,7 +305,7 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",BARNAMA
 http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",HELLO
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qslv31G_m8A/mqdefault.jpg" group-title="MY/SG",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://sites.bookdoc.com/wp-content/uploads/2017/09/berita-rtm-logo.jpg" group-title="MY/SG",BERITA
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
