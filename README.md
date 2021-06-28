@@ -182,6 +182,13 @@ http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg"" group-title="MOVIES",TVN MOVIES
 http://210.210.129.106:80/session/1dea1ffa-b310-11eb-ae6d-ba03834cb919/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="src="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"" group-title="MOVIES",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="src="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/smart/width/250/height/250?cb=20171225070136"" group-title="MOVIES",BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+
+
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
@@ -311,6 +318,8 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sites.bookdoc.com/wp-content/uploads/2015/11/astro-AWANI-logo.jpg" group-title="MY/SG",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="MY/SG",ASTRO CERIA
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
 
 
