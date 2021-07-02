@@ -184,10 +184,14 @@ http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/
 http://210.210.129.106:80/session/1dea1ffa-b310-11eb-ae6d-ba03834cb919/dr9445/h/h21/01.m3u8
 #EXTINF:-1 tvg-logo="src="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg"" group-title="MOVIES",&FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="src="https://lh3.googleusercontent.com/proxy/KxP1VqNtH0RzJ5aSA17DAZcGl9HwIPekI5bAz-kXnHc6bbHI0jBMzeToVRIR0lgcGfaNdyd0GP5gvAsN1c5RmBecUJsXNgsJrlaHNV8WyeqMp0vbCSXJnwUC0Z5dhO6C4TjzJR2yiEiv0qY"" group-title="MOVIES",AndPrive-HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="src="https://static.wikia.nocookie.net/logopedia/images/0/0d/404_300.png/revision/latest/smart/width/250/height/250?cb=20171225070136"" group-title="MOVIES",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="src="http://farm8.staticflickr.com/7143/6530259713_75a3603e01_o.jpg"" group-title="MOVIES",FOXFAMILY-HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="src="https://asia-public.foodpanda.com/marketing/production/sg/images/nl/fox/logo.png?v=1462963465"" group-title="MOVIES",FOXMOVIES-HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8 
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
