@@ -162,6 +162,8 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_1000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyadokwoihjb5IKE7MmxfLphwMfvWLmATvtoazrPYmNijw55KIedTCvIqoIxKlgio0KY&usqp=CAU" group-title="MOVIES",HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/Warner_Bros__Pictures-logo-E9C49FB159-seeklogo.com.png" group-title="MOVIES", HBO (MY)
+https://gratismkctv.net/film/hbo.m3u8 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/Warner_Bros__Pictures-logo-E9C49FB159-seeklogo.com.png" group-title="MOVIES", WARNER TV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Paramount_Network.svg" group-title="MOVIES", Paramount Channel
