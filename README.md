@@ -205,10 +205,12 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 #EXTINF:-1 tvg-logo="src="https://simg.nicepng.com/png/small/43-439776_fightchannel-logo-fight-channel-world-hd.png"" group-title="SPORTS", FIGHT TV
 http://210.210.129.106:80/session/10c0ce96-afc8-11eb-a8fe-a197a61aca83/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt1.png" group-title="SPORTS", BT SPORTS 1 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8 #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/bt2.png" group-title="SPORTS", BT SPORTS 2 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/nba.png" group-title="SPORTS",NBA http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2396/brand.gif?itok=nff-Q9JP" group-title="SPORTS",TEN SPORT
-http://174.128.248.2:80/ten-123456/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="src="http://kamiselaluada.com/img/bt1.png"" group-title="SPORTS",BTSPORTS 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="src="http://kamiselaluada.com/img/bt2.png"" group-title="SPORTS",BTSPORTS 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="src="http://kamiselaluada.com/img/nba.png"" group-title="SPORTS",NBA
+http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1" group-title="SPORTS",FOX Sports 1
