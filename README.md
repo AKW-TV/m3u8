@@ -77,20 +77,14 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="HINDI"" , SONY TV HD
-http://208.115.215.42:80/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI"" ,SONY MAX
-http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-wah-logo-300x300.jpg" group-title="HINDI"" ,SONY WAH
-http://208.115.215.42:80/Sony_Aath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2NHGIO3H6UA/WyjB50NzflI/AAAAAAAAAa0/7SJhkYOtxywFz5UJUmtjww47MJNCOAUAwCLcBGAs/s1600/Max_2.jpg" group-title="HINDI"" ,SONY MAX2
-http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="HINDI"" , ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-logo="/pt-data/uploads/logo/in-channel-win-3861.jpg" group-title="HINDI"" , WIN TV HD
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1547418290.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eqxcckunjkhu.png" group-title="HINDI"",ZEE NEWS
