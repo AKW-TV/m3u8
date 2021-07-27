@@ -14,7 +14,7 @@ https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w63884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.awamiweb.com/wp-content/uploads/2016/02/ptv-news-new-logo-300x282.jpg" group-title="Pakistan" ,PTV NEWS (HD)
 https://live.ptv.com.pk/live/ptvnews/chunklist_w711801155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://arynews.tv/wp-content/uploads/2018/03/news-logo-2-1.jpg" group-title="Pakistan" ,ARY NEWS (HD)
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream3/chunks.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/arynewsweb/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/4b3660e4ac101a660d71cf1a154f3134ddc7a86b8c19766c5066673c219778c2.png" group-title="Pakistan" ,KING TV
