@@ -199,6 +199,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-logo="src="https://www.geo.tv/assets/front/images/geo_super.png"" group-title="SPORTS",GEO SUPER
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/Geo/Kahani1/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180805/awa/kisspng-logo-ptv-sports-television-channel-pakistan-5b67b1983f6315.8991181315335223282597.jpg" group-title="SPORTS",PTV SPORTS
 https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
 #EXTINF:-1 tvg-logo="src="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png"" group-title="SPORTS",BEIN SPORT 7
