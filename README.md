@@ -225,8 +225,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", MUX SPORTS
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFSeLeZe8uVLAlhgKk9bc9Q2QhKd1g4SFpywoIfizXFSCDsZAj2ghY-bg9qSBZcttgKk&usqp=CAU" group-title="SPORTS",EDAGE SPORTS
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 #EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
