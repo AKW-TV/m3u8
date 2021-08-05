@@ -81,8 +81,10 @@ http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="HINDI"" , ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI",&Pictures
+
+EXTINF:-1 tvg-id="AndPictures.in" tvg-name="&Pictures" tvg-country="SAS" tvg-language="" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI", &Pictures
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
