@@ -241,22 +241,17 @@ https://gma2.blab.email/espn2.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFSeLeZe8uVLAlhgKk9bc9Q2QhKd1g4SFpywoIfizXFSCDsZAj2ghY-bg9qSBZcttgKk&usqp=CAU" group-title="SPORTS",EDAGE SPORTS
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30243
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30244
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30239
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30245
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30247
-#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="SPORTS",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="SPORTS",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="SPORTS",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" tvg-url="" group-title="SPORTS",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-country="FR" tvg-language="" tvg-logo="" tvg-url="" group-title="SPORTS",Trace Sport Stars
+https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200203469/original/d273dfd4f7b1f624f9cf14a31854c5f058591c15/make-an-amazing-unique-luxury-tennis-logo-design-in-12-hours-delivery.jpg" group-title="SPORTS", TENNIS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="SPORTS",Star Sports
