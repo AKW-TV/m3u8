@@ -84,13 +84,13 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="HINDI"" , ZEE TV HD
-http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI"" , & PICTURE HD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-logo="/pt-data/uploads/logo/in-channel-win-3861.jpg" group-title="HINDI"" , WIN TV HD
@@ -104,7 +104,7 @@ http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-bollywood.png" group-title="HINDI"" , ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="HINDI"" , ZEE ACTION HD
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
