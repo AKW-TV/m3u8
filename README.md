@@ -74,7 +74,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/755634951652052993/a0plrfA7_400x400.jpg" group-title="Pakistan",ASHARFI TV
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="Pakistan",ARY NEWS HD
-
+https://stream-04.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrZlyquFEtfW_ERxqrk7yN68)/dm/3/x72hrde/s/live-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.suchtv.pk/images/such-tv-official-logo.png" group-title="Pakistan", SUCH NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e319a144157461.Y3JvcCw1MTksNDA2LDIyOCw3OQ.jpeg" group-title="Pakistan", LOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
