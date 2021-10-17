@@ -79,7 +79,9 @@ https://stream-04.sg1.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrZlyquFEtfW_ERxqrk
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png" group-title="Pakistan",CITY NEWS HD
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/chunklist_w2008786409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e319a144157461.Y3JvcCw1MTksNDA2LDIyOCw3OQ.jpeg" group-title="Pakistan", LOLLYWOOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.logolynx.com/images/logolynx/c8/c8a9dbfd767f4d215a43b43ff0cc6bb8.jpeg" group-title="Pakistan",Madani TV HD
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/madnitvurdu/madniurdu_1080p/chunks.m3u8?nimblesessionid=212600371
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e319a144157461.Y3JvcCw1MTksNDA2LDIyOCw3OQ.jpeg" group-title="Pakistan",LOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD
