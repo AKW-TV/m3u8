@@ -74,7 +74,7 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/755634951652052993/a0plrfA7_400x400.jpg" group-title="Pakistan",ASHARFI TV
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkztSj4vGojE1s65wqhrITRY-s9gQ3Hwwg78dekGHqv0CF5s4K3byvgXR3fm6ktnu1Dys&usqp=CAU"" group-title="Pakistan",ARY HD
-https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigital/f7b44cfafd5c52223d5498196c8a2e7b.sdp/l_21658370_54228551_9038.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.suchtv.pk/images/such-tv-official-logo.png" group-title="Pakistan", SUCH NEWS
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/City_News_HD_Logo.png" group-title="Pakistan",CITY NEWS HD
