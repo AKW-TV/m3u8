@@ -18,7 +18,7 @@ https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS 
-http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8?nimblesessionid=212587891
+http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/4b3660e4ac101a660d71cf1a154f3134ddc7a86b8c19766c5066673c219778c2.png" group-title="Pakistan" ,KING TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1432758606/Logo_Isaac_400x400.jpg" group-title="Pakistan" ,ISAAC TV
