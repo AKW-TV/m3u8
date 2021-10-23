@@ -96,10 +96,17 @@ http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg" group-title="HINDI"" ,UTSAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxXiA-Yjps0/X5Eri1UUFQI/AAAAAAAACs0/JYqxDFyWD-wP13YN2GIvaEBmn5rBwGcPwCLcBGAsYHQ/s600/727.jpg" group-title="HINDI"" ,ABZY
+http://jo123.biz:80/jweb/m3u8.php?c=ABZY_Movies&=800&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-wah-logo-300x300.jpg" group-title="HINDI"" ,SONY WAH
+http://jo123.biz:80/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-set-hd-logo-300x300.jpg" group-title="HINDI"" ,SONY TV HD
+http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="HINDI"" , & PICTURE HD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/TLC-HD.jpg" group-title="HINDI"" ,TLC HD
+http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
