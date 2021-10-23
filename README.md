@@ -109,8 +109,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 http://jo123.biz:80/jweb/m3u8.php?c=TLC_Hindi&=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/v1562767001/resources/0-9-zeecinemahd/channel_square/zeecinemahd_1800709270.png" group-title="HINDI"",ZEE CINEMA HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA",DD National (New!)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 tvg-logo="/pt-data/uploads/logo/in-channel-win-3861.jpg" group-title="HINDI"" , WIN TV HD
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1547418290.m3u8
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/eqxcckunjkhu.png" group-title="HINDI"",ZEE NEWS
