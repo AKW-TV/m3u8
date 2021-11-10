@@ -98,6 +98,19 @@ http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oxXiA-Yjps0/X5Eri1UUFQI/AAAAAAAACs0/JYqxDFyWD-wP13YN2GIvaEBmn5rBwGcPwCLcBGAsYHQ/s600/727.jpg" group-title="HINDI"" ,ABZY
 http://jo123.biz:80/jweb/m3u8.php?c=ABZY_Movies&=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS India
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD 4K
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg" group-title="HINDI"" ,UTSAV PLUS HD 
+http://208.115.215.42:80/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="HINDI"" , ZEE TV HD
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Utsav_Plus_Logo.jpg" group-title="HINDI"" ,UTSAV GOLD
+http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-wah-logo-300x300.jpg" group-title="HINDI"" ,SONY WAH
 http://jo123.biz:80/jweb/m3u8.php?c=Sony_Wah&=800&e=.m3u8
