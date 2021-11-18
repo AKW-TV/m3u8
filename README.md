@@ -60,8 +60,8 @@ https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w387091921.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Pakistan",92 UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.parsatv.com/index_files/channels/expressnews.png" group-title="Pakistan" ,EXPRESS News
-https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1782001223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://play-lh.googleusercontent.com/wcSHBEPWVSNOEKBuGpY22knMK4BJQR6ZyeSk83pqoLf_n6ZaPU95P4Nvyp5yhOEvHw" group-title="Pakistan" ,KOHENOOR NEWS
+https://streamer12.vdn.dstreamone.net/dsone/kohenoortv/chunks.m3u8?nimblesessionid=239426489
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png" group-title="Pakistan",Ibaadat tv
