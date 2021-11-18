@@ -30,7 +30,8 @@ https://livecdn.live247stream.com/fazal/tv/fazal/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71usSZ03TiL.png" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.joystar.tv/images/logo.png" group-title="Pakistan" ,JOYSTAR TV
-https://cdn.live247stream.com/joystar/tv/joystar/stream2/chunks.m3u8
+https://cdn.live247stream.com/joystar/tv/joystar/stream/chunks.m3u8?nimblesessionid=1500862246
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMfJt9aogMqufUMenBtKFt0sQf9J5k6_vZMA&usqp=CAU" group-title="Pakistan" ,YESHUAA TV
 http://cdn15.live247stream.com/yeshuaa/ls/yeshuaa/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.angeltv.org/images/logo.png" group-title="Pakistan" ,ANGEL TV
