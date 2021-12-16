@@ -200,7 +200,8 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES", HBO (MY)
 https://gratismkctv.net/film/hbo.m3u8 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0021/1923/brand.gif?itok=xh9Oc6rW" group-title="MOVIES", STAR MOVIES
-http://221.120.204.4:80/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/Warner_Bros__Pictures-logo-E9C49FB159-seeklogo.com.png" group-title="MOVIES", WARNER TV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
